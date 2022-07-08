@@ -47,9 +47,6 @@ Questions are encouraged ask them to your contact. You'll be asked to present yo
 solution to an interview panel of engineers and argue for any decisions you're making, so be prepared
 to discuss your solution.
 
-While this is a standard layout and uses standard libraries, feel free to use any modules you feel 
-like and structure this any way you like. Be prepared to discuss your reasoning in the panel interview.
-
 ## DevOps problem
 
 ### Docker problem
@@ -90,8 +87,7 @@ provided your reasoning.
 ## Required Tools
 
 * git
-* python3
-* pipenv
+* bash
 * docker
 
 ## Submitting:
